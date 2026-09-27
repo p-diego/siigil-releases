@@ -1,0 +1,25 @@
+Siigil
+Copyright © 2026 Diego Pavan. All rights reserved.
+
+Siigil is free to use. It is not open source.
+
+1. You may download, install and use Siigil on any number of Macs, for personal or commercial purposes, free of
+   charge.
+
+2. To share Siigil, point people to the official releases page, https://github.com/p-diego/siigil-releases.
+   You may not sell, rent, sublicense or distribute copies of Siigil, modified or not.
+
+3. You may not modify, decompile or disassemble Siigil, except where the law allows it despite this term.
+
+4. Siigil includes third-party components (the cat sprites, two fonts, a sound and four colour palettes), each
+   under its own license. They are listed in Siigil › About Siigil, and their license texts are in
+   Siigil.app/Contents/Resources/Licenses. This license gives no rights to those components on their own: in
+   particular, the cat sprites must not be extracted or redistributed.
+
+5. Siigil is an independent project. It is not affiliated with or endorsed by Anthropic, OpenAI or the authors of
+   AeroSpace. Claude, ChatGPT, Codex and AeroSpace belong to their respective owners.
+
+6. SIIGIL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR
+   BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+   FROM, OUT OF OR IN CONNECTION WITH SIIGIL OR THE USE OR OTHER DEALINGS IN SIIGIL.

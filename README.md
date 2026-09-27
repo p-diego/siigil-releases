@@ -23,7 +23,22 @@ From version 0.13, Siigil checks this repository once a day. When a new version 
 choose **Update to …**: Siigil downloads it, checks that it carries the same signature, replaces itself and restarts.
 Your permissions stay. If the update can't be installed, the same menu item takes you here to download the DMG.
 
+## License
+
+Siigil is free to use, for personal or commercial purposes, but it is not open source: see [LICENSE](LICENSE).
+Share it by linking to this page; please don't redistribute copies.
+
 ## Credits
 
-Cat sprites: [Catset Kittens](https://seethingswarm.itch.io/catset-kittens) by SeethingSwarm, used under their
-license. They are not redistributable on their own.
+- Cat sprites: [Catset Kittens](https://seethingswarm.itch.io/catset-kittens) by SeethingSwarm, used under their
+  license. They are not redistributable on their own.
+- Fonts: [mac's Minecraft](https://github.com/macimas/macsMinecraft) by macimas and
+  [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono), both under the SIL Open Font License 1.1.
+- Meow: "Cat Meow 8 FX" by SOUND_GARAGE, [Pixabay Content License](https://pixabay.com/service/license-summary/).
+- Theme colours: [Catppuccin](https://github.com/catppuccin/catppuccin), [Nord](https://github.com/nordtheme/nord),
+  [Dracula](https://github.com/dracula/dracula-theme) and [Gruvbox](https://github.com/morhetz/gruvbox), MIT License.
+
+The full license texts ship inside the app, in `Siigil.app/Contents/Resources/Licenses`, and the credits are in
+Siigil › About Siigil.
+
+Siigil is an independent project, not affiliated with or endorsed by Anthropic, OpenAI or the authors of AeroSpace.

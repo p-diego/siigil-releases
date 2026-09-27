@@ -1,8 +1,10 @@
 # Siigil
 
 A status bar for macOS 26 with [AeroSpace](https://github.com/nikitabobko/AeroSpace): Liquid Glass pills for your
-workspaces with the icons of their windows, widgets (clock, battery, Wi-Fi, volume, Focus), and a pixel-art cat that
-watches your AI agents (Claude Code, Codex) and shows your Claude and ChatGPT usage.
+workspaces with the icons of their windows, widgets (clock, battery, Wi-Fi, volume, Focus), a pixel-art cat that
+watches your AI agents (Claude Code, Codex) and shows your Claude and ChatGPT usage, and a pixel-art dog, the Watchdog,
+that guards your Mac: it wakes up and barks when an app has been using more than a full CPU core for a minute, when the
+Mac gets hot or when memory runs low, and lets you quit the culprit.
 
 This repository only hosts the releases; the source code is private.
 
@@ -30,11 +32,13 @@ Share it by linking to this page; please don't redistribute copies.
 
 ## Credits
 
-- Cat sprites: [Catset Kittens](https://seethingswarm.itch.io/catset-kittens) by SeethingSwarm, used under their
-  license. They are not redistributable on their own.
+- Cat and dog sprites: [Catset Kittens](https://seethingswarm.itch.io/catset-kittens) and
+  [Lil Doggies](https://seethingswarm.itch.io/lil-doggies) by SeethingSwarm, used under their license. They are not
+  redistributable on their own.
 - Fonts: [mac's Minecraft](https://github.com/macimas/macsMinecraft) by macimas and
   [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono), both under the SIL Open Font License 1.1.
-- Meow: "Cat Meow 8 FX" by SOUND_GARAGE, [Pixabay Content License](https://pixabay.com/service/license-summary/).
+- Sounds: "Cat Meow 8 FX" by SOUND_GARAGE and "Single Dog Bark (King Charles Spaniel)" by freesound_community,
+  [Pixabay Content License](https://pixabay.com/service/license-summary/).
 - Theme colours: [Catppuccin](https://github.com/catppuccin/catppuccin), [Nord](https://github.com/nordtheme/nord),
   [Dracula](https://github.com/dracula/dracula-theme) and [Gruvbox](https://github.com/morhetz/gruvbox), MIT License.
 
